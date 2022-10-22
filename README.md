@@ -1,4 +1,4 @@
-## Hi i'm Rodrigo da Silva Araújo, FrontEnd Developer Student!
+## Hi i'm Rodrigo da Silva Araújo, a FrontEnd Developer Student!
 <div align="center">
   <a href="https://github.com/RodsYoh/RodsYoh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodsYoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&style_decoration=none"/>
